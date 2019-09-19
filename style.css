@@ -1,6 +1,6 @@
 
 body {   background-image: url("background.jpg");
-         }
+        background-repeat: repeat-x;  }
 #nav-table {width: 800px;}
 
 #nav-id {width; 200px; text-align:center;}
